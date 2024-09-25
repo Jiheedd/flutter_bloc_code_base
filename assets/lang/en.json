@@ -1,0 +1,28 @@
+{
+  "posts": "Posts",
+  "form_post": "Form Post",
+  "edit_post": "Edit Post",
+  "add_post": "Add Post",
+  "post_details": "Post Details",
+  "edit": "Edit",
+  "delete": "Delete",
+  "are_u_sure": "Are you Sure ?",
+  "yes": "Yes",
+  "no": "No",
+  "update": "Update",
+  "add": "Add",
+  "cant_be_empty": "Can't be empty",
+  "title": "Title",
+  "body": "Body",
+  "add_success_message": "Post Added Successfully",
+  "delete_post_success": "Post Deleted Successfully",
+  "update_post_success": "Post Updated Successfully",
+  "internet_connected_success": "You are connected to the internet.",
+  "internet_not_connected": "You are disconnected from the internet.",
+  "server_failure": "Server Failure",
+  "offline_failure": "Offline Failure",
+  "empty_cache_failure": "EmptyCacheFailure",
+  "internal_failure ": "Internal Failure",
+  "unexpected_error": "Unexpected Error"
+
+}
